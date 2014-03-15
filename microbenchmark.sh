@@ -93,7 +93,7 @@ do
 done
 ##############################
 echo "Waiting for servers to be ready (20 seconds)"
-sleep 60
+sleep 20
 
 echo Starting clients...
 cn=0
