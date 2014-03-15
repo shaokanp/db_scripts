@@ -110,7 +110,7 @@ do
 done
 ##############################
 echo "Benchmarking (70 seconds)"
-sleep 70
+sleep 200
 ##############################
 cn=0
 i=1
