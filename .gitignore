@@ -1,4 +1,9 @@
 *
 !.gitignore
 !*.sh
+!/microbenchmark/
 !/microbenchmark/*
+!/microbenchmark/props/
+!/microbenchmark/props/*
+!/microbenchmark/props/backup/
+!/microbenchmark/props/backup/*
